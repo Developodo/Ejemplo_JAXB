@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agenda>
+    <user>
+        <id>1</id>
+        <name>Carlos</name>
+        <email>c@g.com</email>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Eva</name>
+        <email>e@g.com</email>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Marta</name>
+        <email>m@g.com</email>
+    </user>
+</agenda>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<conexion>
+    <url>localhost:3306</url>
+    <user>root</user>
+    <pass>root</pass>
+    <dbname>demojava</dbname>
+</conexion>
